@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Toplevel.SchDoc
+Record=SheetSymbol|SourceDocument=Toplevel.SchDoc|Designator=SCH1|SchDesignator=SCH1|FileName=Battery Reader.SchDoc|SymbolType=Normal|RawFileName=Battery Reader.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Toplevel.SchDoc|Designator=SCH2|SchDesignator=SCH2|FileName=Connectors.SchDoc|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
